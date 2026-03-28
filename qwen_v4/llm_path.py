@@ -1,0 +1,7 @@
+llm1_qwen_path = "/home/yjx/qwen/Qwen3-4B"
+llm2_qwen_path = "/home/yjx/qwen/Qwen3-4B"
+llm2_input_path = "/home/yjx/qwen/Qwen3-4B"
+llm2_output_path = "/home/yjx/qwen/Qwen3-4B"
+llm3_qwen_path = "/home/yjx/qwen/Qwen3-4B"
+llm3_input_path = "/home/yjx/qwen/Qwen3-4B"
+llm3_output_path = "/home/yjx/qwen/Qwen3-4B"

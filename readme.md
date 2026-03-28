@@ -57,6 +57,8 @@ LLM3_DPO will train and generate a new LLM3 model.
 # Qwen_v3
 *Last updated on March 20, 2026*
 
+**This version has not been compiled.**
+
 ## Contributions
 
 Circ 1 is processed in parallel now through batch. Qwen function is also updated. Thus, the pressure on the GPU decreases sharply.
